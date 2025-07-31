@@ -1,17 +1,10 @@
-# Core LangGraph and LangChain dependencies
-pip install langgraph
-pip install langchain-openai
-pip install langchain
+langgraph
+langchain-openai
+langchain
+requests
+python-dotenv
+streamlit
+pandas
+plotly
+numpy
 
-# HTTP requests and environment management
-pip install requests
-pip install python-dotenv
-
-# Streamlit and data visualization
-pip install streamlit
-pip install pandas
-pip install plotly
-pip install numpy
-
-# Standard library dependencies (included with Python)
-# json, datetime, time, logging, os, typing - no need to install separately
